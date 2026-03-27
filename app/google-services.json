@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "501708379964",
+    "project_id": "painfulpinesuperapp",
+    "storage_bucket": "painfulpinesuperapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501708379964:android:0b35848488cd6a1426b039",
+        "android_client_info": {
+          "package_name": "com.madhan.adamsuperapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501708379964-fnbl8iadj3clenkl4qsa74jg6r6rav5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madhan.adamsuperapp",
+            "certificate_hash": "d1b5cbd954956eb8eb46d1e91ec43621dfaa8960"
+          }
+        },
+        {
+          "client_id": "501708379964-0v8e9b52t1ak15j9rdk5umumod0oqmdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnAepMnTCvqhtSY6W7nxV0t5KIeC7Oocc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501708379964-0v8e9b52t1ak15j9rdk5umumod0oqmdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

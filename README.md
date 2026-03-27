@@ -445,7 +445,7 @@ This project demonstrates:
 
 ## 👥 Author
 
-**Developer**: Madhan  
+**Developer**: Sina Fahimi ,Madhan Gangadari  
 **Project Name**: Adam Super App  
 **Package**: com.madhan.adamsuperapp
 
